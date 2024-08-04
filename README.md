@@ -9,3 +9,5 @@ A simple swipe left or right (or long swipe) lets you choose between responses, 
 
 Issues:
 https://github.com/sergemoskalenko/introvert-talk/issues
+
+<img src="https://github.com/sergemoskalenko/introvert-talk/blob/main/img/512.png">
